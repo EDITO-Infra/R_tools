@@ -19,7 +19,9 @@ This script serves as a wrapper around the EDITO data lake STAC interface. It ha
 ## Usage
 
 Run the code below to import the functions in your script. Make sure you have the dependencies installed (see examples).
+```
 source("https://raw.githubusercontent.com/EDITO-Infra/R_tools/main/editoTools.R")
+```
 
 
 Example notebooks available:
