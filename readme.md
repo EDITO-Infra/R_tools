@@ -7,10 +7,10 @@ This project is part of EDITO-INFRA
 
 
 ## Developers
-- [Francesco Hernandez](francisco.hernandez@vliz.be)
-- [Ward Standaert](https://github.com/WardStandaert)
-- [Rutendo Roselyn Musimwa](rutendo.musimwa@vliz.be)
-- [Jo-Hannes Nowé](johannes.nowe@vliz.be)
+- [Francesco Hernandez](mailto:francisco.hernandez@vliz.be)
+- [Ward Standaert](mailto:https://github.com/WardStandaert)
+- [Rutendo Roselyn Musimwa](mailto:rutendo.musimwa@vliz.be)
+- [Jo-Hannes Nowé](mailto:johannes.nowe@vliz.be)
 
 
 ## Content
