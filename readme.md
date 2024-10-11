@@ -3,7 +3,7 @@
 ## About
 This project is part of EDITO-INFRA 
 ([Grant agreement ID: 101101473](https://doi.org/10.3030/101101473)):
-- T7.3: End-to-end demonstrator for aquaculture and maritime industry.
+- T6.2: Open tools.
 
 
 ## Developers
